@@ -1,4 +1,4 @@
-📌 Moiz Lokhandwala — Solutions Architect | .NET Expert | AI Practitioner
+📌 Moiz Lokhandwala - Solutions Architect | .NET Expert | AI Practitioner
 
 👋 Hi there! I’m Moiz, a Solutions Architect passionate about building scalable, high-performance systems. With 8+ years of experience in enterprise software, I specialize in cloud-native applications, event-driven architecture, and AI-powered product development.
 
